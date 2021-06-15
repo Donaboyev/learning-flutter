@@ -1,6 +1,7 @@
-# for_learning
+## Branch: "main"
+Simple "Hello World!" application in flutter
 
-A new Flutter project.
+
 
 ## Getting Started
 
