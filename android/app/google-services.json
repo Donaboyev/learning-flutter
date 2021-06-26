@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009423838313",
+    "project_id": "login-demo-flutter-ca759",
+    "storage_bucket": "login-demo-flutter-ca759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009423838313:android:2d30c5a3bc139bcd8646f8",
+        "android_client_info": {
+          "package_name": "com.donaboyev.for_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009423838313-attcqvj1qtf6d8ft13un25ib5jlhb9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPaYFbhRC9rojOBC0BBUkWJLJcl5_rvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009423838313-attcqvj1qtf6d8ft13un25ib5jlhb9b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
